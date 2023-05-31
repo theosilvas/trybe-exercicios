@@ -1,0 +1,64 @@
+div:hover {
+    border: 7px solid salmon;
+}
+
+#div1 {
+  background-color: aqua;
+}
+
+#div2 {
+  background-color: gray;
+}
+
+#divc {
+  background-color: brown;
+
+}
+
+#divesc {
+  background-color: pink;
+}
+
+#divcla {
+  background-color: goldenrod;
+}
+
+div:nth-of-type(3) {
+    height: 100px;
+}
+
+#h31 {
+  color: green;
+  size: 17px;
+  font-style: oblique;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#h32 {
+  color: gold;
+  size: 23px;
+  font-style: inherit;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#h33 {
+  color: mediumseagreen;
+  size: 33px;
+  font-style: initial;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#h34 {
+  color: fuchsia;
+  size: 45px;
+  font-style: unset;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#h35 {
+  color: khaki;
+  size: 58px;
+  font-style: italic;
+  font-family:monospace;
+}
+
