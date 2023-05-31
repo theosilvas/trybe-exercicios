@@ -1,0 +1,58 @@
+li.par {
+    background-color: yellow;
+    color: green;
+}
+
+li.impar {
+    background-color: yellow;
+    text-transform: uppercase;
+}
+
+.red {
+    color: red;    
+}
+
+em {
+    height: 40px;
+    border: solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: bold;
+}
+
+.blue {
+    color: blue;
+}
+
+#java {
+    background-color: pink;
+}
+
+.ula:hover {
+    font-weight: bold;
+}
+
+#stack:hover {
+    color: orange;
+}
+
+#w3s:hover {
+    color: green;
+}
+
+#mdn:hover {
+    color: black;
+}
+
+#devd:hover {
+    color: yellow;
+}
+
+#trybee:hover {
+    color: green;
+}
